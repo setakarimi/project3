@@ -374,6 +374,9 @@ img {
     .testimonial{
         text-align: center;
     }
+    .row{
+        text-align: left;
+    }
     
 
     .testimonial .col-md-3 {
