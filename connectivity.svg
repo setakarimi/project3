@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84" fill="none">
+<circle cx="42.1162" cy="41.8789" r="41.4453" fill="black"/>
+<path d="M55.035 44.8152V51.9605C55.035 53.3055 53.9422 54.3983 52.5972 54.3983H32.4222C31.0772 54.3983 29.9844 53.3055 29.9844 51.9605V31.7855C29.9844 30.4405 31.0772 29.3477 32.4222 29.3477H42.5937" stroke="white" stroke-width="1.68125" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32.4229 29.3477L35.365 18.1673C35.6172 17.3267 36.3738 16.7383 37.2144 16.7383H47.7222C48.5628 16.7383 49.4035 17.3267 49.5716 18.1673L51.6732 25.9852" stroke="white" stroke-width="1.68125" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32.4229 54.3984L35.365 65.5787C35.6172 66.4194 36.3738 67.0078 37.2144 67.0078H47.7222C48.5629 67.0078 49.4035 66.4194 49.5716 65.5787L52.5138 54.3984" stroke="white" stroke-width="1.68125" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M50.2434 29.2647L53.9421 31.6185C54.4465 31.9547 54.4465 32.7113 53.9421 32.9635L48.9824 35.9897V29.9372C48.9824 29.2647 49.739 28.9285 50.2434 29.2647Z" stroke="white" stroke-width="1.68125" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M48.9824 35.9844L53.9421 39.0947C54.4465 39.4309 54.4465 40.1875 53.9421 40.4397L50.2434 42.7934C49.739 43.1297 48.9824 42.7094 48.9824 42.1209V35.9844Z" stroke="white" stroke-width="1.68125" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M45.9561 33.6367L48.9823 35.9905L45.9561 38.3442" stroke="white" stroke-width="1.68125" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M48.0582 45.9111C48.7307 46.0792 49.4032 46.1633 50.1598 46.1633C55.7079 46.1633 60.2473 41.6239 60.2473 36.0758C60.2473 30.5277 55.7079 25.9883 50.1598 25.9883C44.6116 25.9883 40.0723 30.5277 40.0723 36.0758C40.0723 38.9339 41.2491 41.5398 43.1826 43.3052L42.8463 48.1808L48.0582 45.9111Z" stroke="white" stroke-width="1.68125" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
