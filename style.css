@@ -195,17 +195,20 @@ img {
 .quote-box {
     display: flex;
     justify-content: right;
+    
 }
 
 .quote-icon {
     width: 40px;
-    margin-right: 10px;
+    margin-right: 90px;
+    
 }
 
 .quote-text {
-    margin-top: 90px;
+    margin-top: 20px;
     font-size: 1.7rem;
     font-style: italic;
+    margin-right: 50px;
     font-weight: 500;
 }
 .footer {
@@ -346,7 +349,7 @@ img {
     }
     .t2{
         margin-left: 10px;
-
+        
     }
     .testimonial {
         text-align: center;
@@ -361,13 +364,17 @@ img {
     .quote-icon {
         max-width: 70px;
         margin-right: 400px;
-        margin-top: 40px;
+        margin-top: 10px;
     }
 
     .testimonial .row {
         flex-direction: column;
+        
+    }
+    .testimonial{
         text-align: center;
     }
+    
 
     .testimonial .col-md-3 {
         margin-bottom: 10px;
